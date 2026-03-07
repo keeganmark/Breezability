@@ -24,7 +24,7 @@ export function Header() {
               <Wind className="h-5 w-5 text-primary-foreground" />
             </div>
             <span className="font-serif text-xl font-semibold tracking-tight">
-              Breeze
+              Breezability
             </span>
           </Link>
 

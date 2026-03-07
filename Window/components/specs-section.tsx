@@ -61,7 +61,7 @@ export function SpecsSection() {
             </div>
             <div className="mt-8 rounded-xl bg-primary/10 p-4">
               <p className="text-sm text-muted-foreground">
-                Breeze is designed to work with your existing smart home setup. 
+                Breezability is designed to work with your existing smart home setup. 
                 No hub required for basic operation - just connect to your WiFi 
                 and you&apos;re ready to go.
               </p>

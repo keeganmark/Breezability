@@ -33,7 +33,7 @@ export function Footer() {
                 <Wind className="h-5 w-5 text-primary-foreground" />
               </div>
               <span className="font-serif text-xl font-semibold tracking-tight">
-                Breeze
+                Breezability
               </span>
             </Link>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
@@ -63,7 +63,7 @@ export function Footer() {
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 md:flex-row">
           <p className="text-sm text-muted-foreground">
-            © 2026 Breeze Technologies. All rights reserved.
+            © 2026 Breezability Technologies. All rights reserved.
           </p>
           <div className="flex gap-6">
             <Link

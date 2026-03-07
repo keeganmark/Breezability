@@ -25,7 +25,7 @@ export function HeroSection() {
             </h1>
 
             <p className="max-w-lg text-lg leading-relaxed text-muted-foreground">
-              Breeze is an intelligent window automation system that senses your
+              Breezability is an intelligent window automation system that senses your
               desired indoor temperature and opens windows accordingly. Set your
               comfort, let nature do the rest.
             </p>

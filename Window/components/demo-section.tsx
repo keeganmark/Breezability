@@ -47,7 +47,7 @@ export function DemoSection() {
             See it in action
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
-            Adjust the target temperature and watch how Breeze responds in real-time.
+            Adjust the target temperature and watch how Breezability responds in real-time.
           </p>
         </div>
 

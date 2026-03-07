@@ -3,7 +3,7 @@ const steps = [
     number: "01",
     title: "Set Your Target",
     description:
-      "Use the app or voice commands to set your ideal indoor temperature. Breeze remembers your preferences.",
+      "Use the app or voice commands to set your ideal indoor temperature. Breezability remembers your preferences.",
   },
   {
     number: "02",
@@ -31,7 +31,7 @@ export function HowItWorks() {
       <div className="mx-auto max-w-7xl px-6">
         <div className="mb-16 text-center">
           <h2 className="font-serif text-4xl font-medium tracking-tight md:text-5xl text-balance">
-            How Breeze works
+            How Breezability works
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
             Simple setup, intelligent operation, perfect comfort.
